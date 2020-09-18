@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME ||'first-near-app'
+const CONTRACT_NAME = process.env.CONTRACT_NAME ||'ttt.testnet'
 
 function getConfig(env) {
   switch (env) {
